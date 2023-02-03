@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFWpf2App", "EFWpf2App\EFWpf2App.csproj", "{B4C94A07-F0FD-4A79-8423-CFC167C9785F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C94A07-F0FD-4A79-8423-CFC167C9785F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C94A07-F0FD-4A79-8423-CFC167C9785F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C94A07-F0FD-4A79-8423-CFC167C9785F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C94A07-F0FD-4A79-8423-CFC167C9785F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DEE4B83-F127-4011-9CE4-FA15D527BA80}
+	EndGlobalSection
+EndGlobal
